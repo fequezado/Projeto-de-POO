@@ -2,12 +2,12 @@
 Projeto da cadeira de Programação Orientada a Objetos - primeiro semestre de analise e desenvolvimento de sistemas.
 
 trabalho feito em equipe: 
-Vinicius Arrais 
-Pedro Florencio
-Fernanda Sobreira
-Felipe Rebouças
-Marcos Felipe
-Luis Gabriel
+Vinicius Arrais;
+Pedro Florencio;
+Fernanda Sobreira;
+Felipe Rebouças;
+Marcos Felipe;
+Luis Gabriel.
 
 Briefing do trabalho:
 
@@ -35,3 +35,13 @@ em turma os atributos “código”, “disciplina”, “professor” e “alun
 “adicionarAluno”, “removerAluno” e “listarAlunos” e os implemente utilizando
 ArrayList. Cada atributo será do tipo da classe de mesmo nome, exceto alunos que
 terá uma lista de objetos do tipo “Aluno”.
+
+Crie uma classe com método main onde você deverá instanciar:
+● 3 objetos de disciplina;
+● 3 objetos aluno (2 regulares e 1 bolsista);
+● 1 objeto professor;
+● 2 objetos visitante;
+● 3 objetos turma, contendo todos os alunos, o professor e 1 disciplina em cada
+turma criada;
+● Imprima na tela a informação de cada turma, seu código, o professor, a
+disciplina e a lista de alunos matriculados na turma.
